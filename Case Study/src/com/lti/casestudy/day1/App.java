@@ -11,6 +11,7 @@ public class App {
 		Student s1 = new Student(101,"Naveen","05-apr-1999",num1);
 		int[] num2 = {3214566};
 		Student s2 = new Student(102,"Ram","01-apr-2000",num2);
+		int git = 0;
 		
 		Info i = new Info();
 		i.display(s1);
